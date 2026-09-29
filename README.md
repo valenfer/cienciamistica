@@ -18,6 +18,7 @@ Después abre `http://127.0.0.1:8765/`.
 - `assets/`: ilustraciones SVG locales.
 - `docs/superpowers/specs/`: especificación visual y funcional.
 - `docs/superpowers/plans/`: plan de implementación.
+- `FUENTES.md`: fuentes consultadas para la tarjeta sobre frecuencias Solfeggio.
 
 ## Próximos pasos
 
